@@ -86,3 +86,4 @@ This project depends on SDKs defined in the [Packages/manifest.json](./Packages/
 ## Licenses
 
 The Unity-MRUtilityKitSample project is licensed under [MIT LICENSE](./LICENSE).
+Created by Jason Scott Heise
