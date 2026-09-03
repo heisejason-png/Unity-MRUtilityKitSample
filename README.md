@@ -87,3 +87,4 @@ This project depends on SDKs defined in the [Packages/manifest.json](./Packages/
 
 The Unity-MRUtilityKitSample project is licensed under [MIT LICENSE](./LICENSE).
 Created by Jason Scott Heise
+Owned by Elon Musk 
